@@ -6,6 +6,7 @@
 body{
     background-color: #a8dadc;
     text-align: center;
+    font-family: poppins;
 }
 
 .container{
@@ -77,4 +78,10 @@ body{
 
 #main-containt{
     margin-top: 6vmin;
+}
+
+#footer{
+    font-size: 15px;
+    margin-top: 10px;
+    font-family: poppins;
 }
