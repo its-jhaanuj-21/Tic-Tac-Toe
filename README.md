@@ -1,6 +1,6 @@
  <h1>Tic Tac Toe</h1>
     <p>This is a simple Tic Tac Toe game implemented using HTML, CSS, and JavaScript. It allows two players to take turns marking spaces on a 3x3 grid, aiming to get three of their symbols in a row, column, or diagonal.</p>
-    <img src="screenshots/tic_tac_toe_screenshot.png" alt="Tic Tac Toe Screenshot">
+    <img src="screenshoot.png" alt="Tic Tac Toe Screenshot">
     <h2>Demo</h2>
     <p>You can play the game online <a href="https://tic-tac-toe-pi-murex.vercel.app/">here</a>.</p>
     <h2>Getting Started</h2>
